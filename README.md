@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📌 Featured Contributions
+
+- [STATS Final Project](https://github.com/ColeUmland/STATS-Final-Project)  
+  Collaborative class project on statistical analysis. Contributed to [specific parts you worked on].
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ColeUmland&repo=STATS-Final-Project)](https://github.com/ColeUmland/STATS-Final-Project)
